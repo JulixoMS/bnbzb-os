@@ -1,2 +1,5 @@
 # bnbzb-os
-OS from scratch
+### In development...
+
+
+##### Stay tuned!
